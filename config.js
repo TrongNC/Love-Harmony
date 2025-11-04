@@ -1,9 +1,9 @@
-const nameGirl = 'Em';
+const nameGirl = 'Honey';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng 8-3';
-const titleCard = 'Tặng Tics Ngáo';
-const contentCard = 'You are a flower in the making. Nurture yourself with love, stay close to those who truly care for you, and one day, you will bloom into your most radiant self at the perfect time.';
+const eventName = 'Happy anniversary!';
+const titleCard = 'To my one and only love';
+const contentCard = 'คุณคือดอกไม้ที่กำลังจะผลิบาน จงดูแลตัวเองด้วยความรัก อยู่ใกล้ชิดกับคนที่ห่วงใยคุณจริง ๆ แล้ววันหนึ่ง...คุณจะเบ่งบานเป็นตัวตนที่สวยงามที่สุดของคุณ ในเวลาที่เหมาะสมที่สุด 🌸.';
 
-const giftImage = 'tics.png';
+const giftImage = 'Harmony.jpg';
 const base64 = '';
-const giftImageBase64 = "data:image/png;base64, " + base64;
+const giftImageBase64 = "data:image/jpg;base64, " + base64;
